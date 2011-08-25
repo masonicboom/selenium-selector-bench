@@ -2,8 +2,8 @@ This project benchmarks different element selector methods that can be used with
 
 To run, do:
 
-  bundle install
-  rspec bench.rb
+    bundle install
+    rspec bench.rb
   
 
 Relevant links:
